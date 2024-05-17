@@ -1,0 +1,3 @@
+C:/Users/joeyl/CLionProjects/Assets_In_Class_Assignment/cmake-build-debug/CMakeFiles/Assets_In_Class_Assignment.dir
+C:/Users/joeyl/CLionProjects/Assets_In_Class_Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joeyl/CLionProjects/Assets_In_Class_Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

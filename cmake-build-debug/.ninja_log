@@ -1,0 +1,17 @@
+# ninja log v5
+2	277	7375014721609355	CMakeFiles/Assets_In_Class_Assignment.dir/main.cpp.obj	510f52b6e6bb412f
+21	290	7375017629089429	CMakeFiles/Assets_In_Class_Assignment.dir/Assets.cpp.obj	7cd2bd41ea8a69a2
+17	300	7375017629199073	CMakeFiles/Assets_In_Class_Assignment.dir/main.cpp.obj	510f52b6e6bb412f
+300	371	7375017629870728	Assets_In_Class_Assignment.exe	5052bd95c7e49ba0
+7	262	7375023937686616	CMakeFiles/Assets_In_Class_Assignment.dir/Assets.cpp.obj	7cd2bd41ea8a69a2
+4	285	7375023937925821	CMakeFiles/Assets_In_Class_Assignment.dir/main.cpp.obj	510f52b6e6bb412f
+285	354	7375023938573650	Assets_In_Class_Assignment.exe	5052bd95c7e49ba0
+34	488	7376713159193357	CMakeFiles/Assets_In_Class_Assignment.dir/main.cpp.obj	510f52b6e6bb412f
+61	490	7376713159223271	CMakeFiles/Assets_In_Class_Assignment.dir/Assets.cpp.obj	7cd2bd41ea8a69a2
+490	717	7376713161460419	Assets_In_Class_Assignment.exe	5052bd95c7e49ba0
+26	406	7376718904695518	CMakeFiles/Assets_In_Class_Assignment.dir/Assets.cpp.obj	7cd2bd41ea8a69a2
+407	573	7376718906326628	Assets_In_Class_Assignment.exe	5052bd95c7e49ba0
+15	306	7376721112932229	CMakeFiles/Assets_In_Class_Assignment.dir/Assets.cpp.obj	7cd2bd41ea8a69a2
+306	374	7376721113590028	Assets_In_Class_Assignment.exe	5052bd95c7e49ba0
+14	306	7376721289734582	CMakeFiles/Assets_In_Class_Assignment.dir/Assets.cpp.obj	7cd2bd41ea8a69a2
+306	372	7376721290350915	Assets_In_Class_Assignment.exe	5052bd95c7e49ba0
